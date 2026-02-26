@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hey, I’m Shreyansh Kumar Tiwari<br><br>I’m an engineering student who is passionate about building something of my own. I’m deeply interested in startups, real-world problem solving, and turning simple ideas into meaningful products.<br><br>Most of my time goes into learning how businesses are built from scratch, understanding customers, and experimenting with ideas that can grow into something impactful. I’m currently working on building my own venture in the food space, where I’m trying to blend tradition with a modern approach.<br><br>Alongside this, I keep improving my technical skills so I can build, test, and execute ideas on my own. I believe in learning by doing, staying consistent, and improving a little every day.<br><br>I’m focused on creating something valuable, something people genuinely connect with.<br><br>Currently working on:<br><br>Building and growing my startup idea<br><br>Understanding branding, customers, and product building<br><br>Improving my technical skills to support my ideas
 
 
@@ -17,5 +16,3 @@ Hey, I’m Shreyansh Kumar Tiwari<br><br>I’m an engineering student who is pas
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shreyaanshtiwari&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
